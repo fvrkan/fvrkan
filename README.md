@@ -1,4 +1,3 @@
-### Hi there 👋
 #### no i'm not a developer, just trying to have a cool profile :S
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/furkantsdd) 
